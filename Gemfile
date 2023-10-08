@@ -86,3 +86,4 @@ gem 'devise-jwt', '~> 0.11.0'
 
 gem 'rswag'
 gem 'rswag-ui'
+gem "webrick"
