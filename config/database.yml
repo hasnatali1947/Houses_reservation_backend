@@ -54,4 +54,6 @@ test:
 #
 production:
   <<: *default
+  database: backend_house_reservations_rails_production
+  username: backend_house_reservations_rails
   url: <%= ENV['DATABASE_URL'] %>
