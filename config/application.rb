@@ -9,6 +9,7 @@ Bundler.require(*Rails.groups)
 module HelloRailsBackEnd
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
+
     config.middleware.insert_before 0, Rack::Cors do
       allow do
         origins '*' # Update this to match your React app's URL
