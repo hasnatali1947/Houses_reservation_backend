@@ -40,10 +40,6 @@
 - <a href="https://www.postgresql.org/">Postgresql</a>
 - <a href="https://rspec.info/">Rspec</a>
 
-### :rocket: Live API Demo <a name="live-demo"></a>
-
-  - <a href="">Live Link</a>
-
 ### Key Features <a name="key-features"></a>
 
 - [x] Create user based on role
